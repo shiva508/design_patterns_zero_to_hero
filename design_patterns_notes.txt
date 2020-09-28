@@ -1,0 +1,6 @@
+﻿Singleton Design pattern
+
+->It is creational design pattern, delas with cotrolling creation of java objects
+->Only one instance of class should exist 
+->Other classes should be able to get instance of Singleton class.
+->Used in Logging,Cache,Drivers,Session
