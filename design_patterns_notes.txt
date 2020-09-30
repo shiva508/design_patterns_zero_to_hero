@@ -4,3 +4,30 @@
 ->Only one instance of class should exist 
 ->Other classes should be able to get instance of Singleton class.
 ->Used in Logging,Cache,Drivers,Session
+
+    •*** Implementation
+->Constructor should be private(if it is public user can create many instances of it so making private )
+->Public method for returning instance
+->Instance type private,static
+(Using private constructor we can ensure that no more than one object can be created at a time. 
+By providing a private constructor you prevent class instances from being created in any place 
+other than this very class.)
+
+  ****Initialization types
+1.EAGARA-
+
+I never thought i would go mad at someone
+I never thought i would smile at myself
+I never thought i would someone would be so perfect for me
+
+
+I never thought i would find
+A SMILE that stoles my heart
+A MIRRACLE that made me believe in wonders
+A ASSURANCE that 
+A NAME that i would love to say it again and again
+A PERSON standing next to her make me feel like king of the world
+A PROMISE for life time
+A SOULMATE who supports me 
+
+
