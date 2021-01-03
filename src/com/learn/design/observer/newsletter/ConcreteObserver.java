@@ -4,8 +4,6 @@ public class ConcreteObserver implements Observer {
 
 	@Override
 	public void update(Float temperature, Float humidity, Float pressure) {
-		// TODO Auto-generated method stub
-		
 	}
 
 }
