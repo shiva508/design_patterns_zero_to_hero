@@ -1,0 +1,49 @@
+﻿Singleton Design pattern
+Java Singleton Pattern is one of the Gangs of Four Design patterns and comes in the Creational Design Pattern category.
+
+->It is creational design pattern, delas with cotrolling creation of java objects
+->Only one instance of class should exist 
+->Other classes should be able to get instance of Singleton class.
+->Used in Logging,Cache,Drivers,Session
+
+    •*** Implementation
+->Constructor should be private(if it is public user can create many instances of it so making private )
+->Public method for returning instance
+->Instance type private,static
+(Using private constructor we can ensure that no more than one object can be created at a time. 
+By providing a private constructor you prevent class instances from being created in any place 
+other than this very class.)
+
+
+
+
+
+
+
+
+
+  ****Initialization types
+I never thought i would find
+
+A SMILE that stoles my heart,
+A MIRRACLE that made me believe in wonders,
+A NAME that i would love to say it again and again,
+A PERSON standing next to her make me feel like king of the world,
+A PROMISE for life time,
+A SOULMATE who supports me for life long,
+A SUNSHINE that fills light in my life,
+A BOON that stays with me for life time,
+A WONDER WOMEN who completes me,
+I finally found her 
+
+I am very happy to announce i am getting married ...............
+
+
+I never thought i would find
+
+A SMILE that stoles my heart,
+A MIRRACLE that made me believe in wonders,
+A NAME that i would love to say it again and again,
+Whos pensence makes my life more beautifull
+I finally found her 
+I am very happy to announce i am getting married ...............very soon
