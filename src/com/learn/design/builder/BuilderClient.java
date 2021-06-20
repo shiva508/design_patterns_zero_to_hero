@@ -1,7 +1,12 @@
 package com.learn.design.builder;
 
+import java.util.Locale;
+
 public class BuilderClient {
 	public static void main(String[] args) {
 		UserDetaiils detaiils = new UserDetaiils.UserDetaiilsBuilder("Shiva", "Nithya").setActive(false).build();
+		System.out.println(detaiils.getUsername());
+		Product product = Product.builder().setAvailable(true).setProductCode("pS-408").setProductName("Shirt").build();
+		System.out.println(product.getProductCode());
 	}
 }
