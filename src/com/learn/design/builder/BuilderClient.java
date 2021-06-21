@@ -2,6 +2,8 @@ package com.learn.design.builder;
 
 import java.util.Locale;
 
+import com.learn.design.builder.product.Product;
+
 public class BuilderClient {
 	public static void main(String[] args) {
 		UserDetaiils detaiils = new UserDetaiils.UserDetaiilsBuilder("Shiva", "Nithya").setActive(false).build();

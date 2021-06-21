@@ -1,4 +1,4 @@
-package com.learn.design.builder;
+package com.learn.design.builder.product;
 
 public class Product {
 	private String productName;
