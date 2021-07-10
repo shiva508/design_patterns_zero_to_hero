@@ -12,10 +12,12 @@ public class HeadOfDeportment implements Subject {
 	@Override
 	public void addInstituteName(String instituteName) {
 		subjects.forEach(sub -> sub.addInstituteName(instituteName));
+		System.out.println(instituteName);
 	}
 
 	public void addSubject(Subject subject) {
 		subjects.add(subject);
+		System.out.println();
 	}
 	
 	public void remove(Subject subject) {
