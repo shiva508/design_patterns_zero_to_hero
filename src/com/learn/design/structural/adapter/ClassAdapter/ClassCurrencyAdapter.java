@@ -15,13 +15,13 @@ public class ClassCurrencyAdapter extends StandardCurrencyRate implements Curren
 	public Currency russiaCurrency() {
 		Currency currency=getStandardCurrencyRate();
 		System.out.println("80:::::"+currency);
-		return convertCurrencyByRate(currency,0.8);
+		return CurrencyAdapter.convertCurrencyByRate(currency,0.8);
 	}
 
 	@Override
 	public Currency spainCurrency() {
 		Currency currency=getStandardCurrencyRate();
-		return convertCurrencyByRate(currency,0.9);
+		return CurrencyAdapter.convertCurrencyByRate(currency,0.9);
 	}
 
 	public Currency convertCurrencyByRate(Currency currency,Double currencyRate) {
