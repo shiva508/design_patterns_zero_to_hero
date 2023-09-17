@@ -1,9 +1,9 @@
 package com.pool.master.factory.simple.client;
 
-import com.learn.master.factory.simple.model.Burger;
-import com.learn.master.factory.simple.model.Hanburger;
-import com.learn.master.factory.simple.servie.BurgerService;
-import com.learn.master.factory.simple.servie.IndianBurgerService;
+import com.pool.master.factory.simple.model.Burger;
+import com.pool.master.factory.simple.model.Hanburger;
+import com.pool.master.factory.simple.servie.BurgerService;
+import com.pool.master.factory.simple.servie.IndianBurgerService;
 
 public class FactoryClient {
     public static void main(String[] args) {

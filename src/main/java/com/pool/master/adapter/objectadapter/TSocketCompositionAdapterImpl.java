@@ -1,8 +1,8 @@
 package com.pool.master.adapter.objectadapter;
 
-import com.learn.master.adapter.model.TSocket;
-import com.learn.master.adapter.model.Volt;
-import com.learn.master.adapter.service.TSocketAdapter;
+import com.pool.master.adapter.model.TSocket;
+import com.pool.master.adapter.model.Volt;
+import com.pool.master.adapter.service.TSocketAdapter;
 
 public class TSocketCompositionAdapterImpl implements TSocketAdapter {
 

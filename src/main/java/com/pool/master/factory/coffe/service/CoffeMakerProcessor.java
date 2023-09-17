@@ -1,6 +1,6 @@
 package com.pool.master.factory.coffe.service;
 
-import com.learn.master.factory.coffe.model.CoffeMaker;
+import com.pool.master.factory.coffe.model.CoffeMaker;
 
 public abstract class CoffeMakerProcessor {
 

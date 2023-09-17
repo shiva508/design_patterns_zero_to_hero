@@ -1,6 +1,6 @@
 package com.pool.design.banas.intro;
 
-import com.learn.design.banas.Stratagy.Fly;
+import com.pool.design.banas.Stratagy.Fly;
 
 public class Animal {
 	private String name;

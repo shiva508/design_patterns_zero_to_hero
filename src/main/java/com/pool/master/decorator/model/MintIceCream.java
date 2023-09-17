@@ -1,7 +1,7 @@
 package com.pool.master.decorator.model;
 
-import com.learn.master.decorator.service.IceCream;
-import com.learn.master.decorator.service.IceCreamDecorator;
+import com.pool.master.decorator.service.IceCream;
+import com.pool.master.decorator.service.IceCreamDecorator;
 
 public class MintIceCream extends IceCreamDecorator {
 

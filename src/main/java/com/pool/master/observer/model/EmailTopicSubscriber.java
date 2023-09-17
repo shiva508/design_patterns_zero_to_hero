@@ -1,7 +1,7 @@
 package com.pool.master.observer.model;
 
-import com.learn.master.observer.interfaces.Observer;
-import com.learn.master.observer.interfaces.Subject;
+import com.pool.master.observer.interfaces.Observer;
+import com.pool.master.observer.interfaces.Subject;
 
 public class EmailTopicSubscriber implements Observer {
 

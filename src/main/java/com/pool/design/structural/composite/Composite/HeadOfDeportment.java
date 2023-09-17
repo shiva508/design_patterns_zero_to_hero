@@ -3,7 +3,7 @@ package com.pool.design.structural.composite.Composite;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.learn.design.structural.composite.BaseComponent.Subject;
+import com.pool.design.structural.composite.BaseComponent.Subject;
 
 public class HeadOfDeportment implements Subject {
 

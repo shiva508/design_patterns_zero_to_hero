@@ -1,6 +1,6 @@
 package com.pool.master.template.service.impl;
 
-import com.learn.master.template.service.Gane;
+import com.pool.master.template.service.Gane;
 
 public class EndlessRunner extends Gane{
 

@@ -1,8 +1,8 @@
 package com.pool.master.factory.simple.servie;
 
-import com.learn.master.factory.simple.model.Hanburger;
-import com.learn.master.factory.simple.model.IndianCheeseBurger;
-import com.learn.master.factory.simple.model.IndianNonVegBurger;
+import com.pool.master.factory.simple.model.Hanburger;
+import com.pool.master.factory.simple.model.IndianCheeseBurger;
+import com.pool.master.factory.simple.model.IndianNonVegBurger;
 
 public class IndianBurgerService extends BurgerService {
 

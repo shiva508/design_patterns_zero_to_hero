@@ -1,6 +1,6 @@
 package com.pool.master.decorator.model;
 
-import com.learn.master.decorator.service.IceCream;
+import com.pool.master.decorator.service.IceCream;
 
 public class BasicIceCream implements IceCream {
 

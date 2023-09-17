@@ -1,6 +1,6 @@
 package com.pool.master.command.service;
 
-import com.learn.master.command.model.MarioCharacterReceiver;
+import com.pool.master.command.model.MarioCharacterReceiver;
 
 public class MarioLeftCommand implements Command {
 

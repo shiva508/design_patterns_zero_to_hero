@@ -3,13 +3,13 @@ package com.pool.master.observer.controller;
 import java.util.Arrays;
 import java.util.List;
 
-import com.learn.master.observer.whatsapp.model.Message;
-import com.learn.master.observer.whatsapp.service.Friend;
-import com.learn.master.observer.whatsapp.service.FriendImpl;
-import com.learn.master.observer.whatsapp.service.Nithya;
-import com.learn.master.observer.whatsapp.service.Ravi;
-import com.learn.master.observer.whatsapp.service.WhatsappService;
-import com.learn.master.observer.whatsapp.service.WhatsappServiceImpl;
+import com.pool.master.observer.whatsapp.model.Message;
+import com.pool.master.observer.whatsapp.service.Friend;
+import com.pool.master.observer.whatsapp.service.FriendImpl;
+import com.pool.master.observer.whatsapp.service.Nithya;
+import com.pool.master.observer.whatsapp.service.Ravi;
+import com.pool.master.observer.whatsapp.service.WhatsappService;
+import com.pool.master.observer.whatsapp.service.WhatsappServiceImpl;
 
 public class WhatsappClient {
     public static void main(String[] args) {

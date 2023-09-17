@@ -1,8 +1,8 @@
 package com.pool.design.structural.adapter.ObjectAdapter;
 
-import com.learn.design.structural.adapter.Currency;
-import com.learn.design.structural.adapter.CurrencyAdapter;
-import com.learn.design.structural.adapter.StandardCurrencyRate;
+import com.pool.design.structural.adapter.Currency;
+import com.pool.design.structural.adapter.CurrencyAdapter;
+import com.pool.design.structural.adapter.StandardCurrencyRate;
 
 public class ObjectCurrencyAdapter implements CurrencyAdapter{
 	private final StandardCurrencyRate standardCurrencyRate=new StandardCurrencyRate();

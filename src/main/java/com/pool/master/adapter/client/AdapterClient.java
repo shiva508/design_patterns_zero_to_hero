@@ -1,9 +1,9 @@
 package com.pool.master.adapter.client;
 
-import com.learn.master.adapter.classadapter.TSocketAdapterImpl;
-import com.learn.master.adapter.model.Volt;
-import com.learn.master.adapter.objectadapter.TSocketCompositionAdapterImpl;
-import com.learn.master.adapter.service.TSocketAdapter;
+import com.pool.master.adapter.classadapter.TSocketAdapterImpl;
+import com.pool.master.adapter.model.Volt;
+import com.pool.master.adapter.objectadapter.TSocketCompositionAdapterImpl;
+import com.pool.master.adapter.service.TSocketAdapter;
 
 public class AdapterClient {
     public static void main(String[] args) {
@@ -36,17 +36,12 @@ public class AdapterClient {
     }
 
     public static Volt switchVolt(TSocketAdapter adapter, int voltageType) {
-        switch (voltageType) {
-            case 1:
-                return adapter.get1Volts();
-            case 3:
-                return adapter.get3Volts();
-            case 12:
-                return adapter.get12Volts();
-            case 120:
-                return adapter.get120Volts();
-            default:
-                return adapter.get120Volts();
-        }
+        return switch (voltageType) {
+            case 1 -> adapter.get1Volts();
+            case 3 -> adapter.get3Volts();
+            case 12 -> adapter.get12Volts();
+            case 120 -> adapter.get120Volts();
+            default -> adapter.get120Volts();
+        };
     }
 }

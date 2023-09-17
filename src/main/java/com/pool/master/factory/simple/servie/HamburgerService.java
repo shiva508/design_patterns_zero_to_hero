@@ -1,8 +1,8 @@
 package com.pool.master.factory.simple.servie;
 
-import com.learn.master.factory.simple.factory.SimpleHamburgerFactory;
-import com.learn.master.factory.simple.model.Burger;
-import com.learn.master.factory.simple.model.Hamburger;
+import com.pool.master.factory.simple.factory.SimpleHamburgerFactory;
+import com.pool.master.factory.simple.model.Burger;
+import com.pool.master.factory.simple.model.Hamburger;
 
 public abstract class HamburgerService {
 

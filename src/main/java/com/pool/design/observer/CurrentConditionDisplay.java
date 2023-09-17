@@ -1,7 +1,7 @@
 package com.pool.design.observer;
 
-import com.learn.design.observer.newsletter.Observer;
-import com.learn.design.observer.newsletter.Subject;
+import com.pool.design.observer.newsletter.Observer;
+import com.pool.design.observer.newsletter.Subject;
 
 public class CurrentConditionDisplay implements Observer, DisplayUnit {
 

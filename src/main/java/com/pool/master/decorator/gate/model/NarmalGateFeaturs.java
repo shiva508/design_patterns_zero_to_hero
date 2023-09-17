@@ -1,7 +1,7 @@
 package com.pool.master.decorator.gate.model;
 
-import com.learn.master.decorator.gate.service.GateFeatureSelector;
-import com.learn.master.decorator.gate.service.GateMaufacture;
+import com.pool.master.decorator.gate.service.GateFeatureSelector;
+import com.pool.master.decorator.gate.service.GateMaufacture;
 
 public class NarmalGateFeaturs extends GateFeatureSelector {
 

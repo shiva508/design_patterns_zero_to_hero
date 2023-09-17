@@ -1,9 +1,9 @@
 package com.pool.design.behavioral.mediator.client;
 
-import com.learn.design.behavioral.mediator.StudentPoolChatRoom;
-import com.learn.design.behavioral.mediator.colleague.Student;
-import com.learn.design.behavioral.mediator.colleague.concrete.ChatStudent;
-import com.learn.design.behavioral.mediator.concrete.StudentPoolChatRoomImpl;
+import com.pool.design.behavioral.mediator.StudentPoolChatRoom;
+import com.pool.design.behavioral.mediator.colleague.Student;
+import com.pool.design.behavioral.mediator.colleague.concrete.ChatStudent;
+import com.pool.design.behavioral.mediator.concrete.StudentPoolChatRoomImpl;
 
 public class MediatorPatternClient {
 	public static void main(String[] args) {

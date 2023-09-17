@@ -3,7 +3,7 @@ package com.pool.master.observer.whatsapp.service;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.learn.master.observer.whatsapp.model.Message;
+import com.pool.master.observer.whatsapp.model.Message;
 
 public class WhatsappServiceImpl implements WhatsappService {
 

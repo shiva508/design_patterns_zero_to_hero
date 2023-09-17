@@ -1,9 +1,9 @@
 package com.pool.master.decorator.client;
 
-import com.learn.master.decorator.model.BasicIceCream;
-import com.learn.master.decorator.model.MintIceCream;
-import com.learn.master.decorator.model.VanilaIceCream;
-import com.learn.master.decorator.service.IceCream;
+import com.pool.master.decorator.model.BasicIceCream;
+import com.pool.master.decorator.model.MintIceCream;
+import com.pool.master.decorator.model.VanilaIceCream;
+import com.pool.master.decorator.service.IceCream;
 
 public class IceCreamVendorClient {
     public static void main(String[] args) {

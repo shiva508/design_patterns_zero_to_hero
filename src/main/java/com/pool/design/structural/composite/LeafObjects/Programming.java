@@ -1,7 +1,7 @@
 package com.pool.design.structural.composite.LeafObjects;
 
 
-import com.learn.design.structural.composite.BaseComponent.Subject;
+import com.pool.design.structural.composite.BaseComponent.Subject;
 
 public class Programming implements Subject {
 

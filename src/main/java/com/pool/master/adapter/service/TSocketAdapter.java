@@ -1,6 +1,6 @@
 package com.pool.master.adapter.service;
 
-import com.learn.master.adapter.model.Volt;
+import com.pool.master.adapter.model.Volt;
 
 public interface TSocketAdapter {
     public Volt get120Volts();

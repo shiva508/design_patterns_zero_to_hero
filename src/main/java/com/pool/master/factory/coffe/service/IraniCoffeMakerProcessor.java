@@ -1,9 +1,9 @@
 package com.pool.master.factory.coffe.service;
 
-import com.learn.master.factory.coffe.model.CoffeMaker;
-import com.learn.master.factory.coffe.model.IraniCoffeMaker;
-import com.learn.master.factory.coffe.model.LightIraniCoffeMaker;
-import com.learn.master.factory.coffe.model.StrongIraniCoffeMaker;
+import com.pool.master.factory.coffe.model.CoffeMaker;
+import com.pool.master.factory.coffe.model.IraniCoffeMaker;
+import com.pool.master.factory.coffe.model.LightIraniCoffeMaker;
+import com.pool.master.factory.coffe.model.StrongIraniCoffeMaker;
 
 public class IraniCoffeMakerProcessor extends CoffeMakerProcessor {
 

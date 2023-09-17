@@ -1,10 +1,10 @@
 package com.pool.master.factory.simple.factory;
 
-import com.learn.master.factory.simple.model.Burger;
-import com.learn.master.factory.simple.model.CheeseBurger;
-import com.learn.master.factory.simple.model.GreekBurger;
-import com.learn.master.factory.simple.model.Hamburger;
-import com.learn.master.factory.simple.model.MeatBurger;
+import com.pool.master.factory.simple.model.Burger;
+import com.pool.master.factory.simple.model.CheeseBurger;
+import com.pool.master.factory.simple.model.GreekBurger;
+import com.pool.master.factory.simple.model.Hamburger;
+import com.pool.master.factory.simple.model.MeatBurger;
 
 public class SimpleHamburgerFactory {
     public Burger createHamburger(String type) {

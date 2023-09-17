@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import com.learn.master.template.service.Gane;
+import com.pool.master.template.service.Gane;
 
 public class FoodballGane  extends Gane{
 	@Override

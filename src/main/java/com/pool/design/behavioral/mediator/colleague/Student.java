@@ -1,6 +1,6 @@
 package com.pool.design.behavioral.mediator.colleague;
 
-import com.learn.design.behavioral.mediator.StudentPoolChatRoom;
+import com.pool.design.behavioral.mediator.StudentPoolChatRoom;
 
 public abstract class Student {
 	private StudentPoolChatRoom mediator;

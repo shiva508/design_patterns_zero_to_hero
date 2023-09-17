@@ -3,8 +3,8 @@ package com.pool.master.observer.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.learn.master.observer.interfaces.Observer;
-import com.learn.master.observer.interfaces.Subject;
+import com.pool.master.observer.interfaces.Observer;
+import com.pool.master.observer.interfaces.Subject;
 
 public class EmailTopic implements Subject {
 

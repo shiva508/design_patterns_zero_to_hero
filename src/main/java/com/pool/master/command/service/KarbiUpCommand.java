@@ -1,6 +1,6 @@
 package com.pool.master.command.service;
 
-import com.learn.master.command.model.KarbiCharacterReceiver;
+import com.pool.master.command.model.KarbiCharacterReceiver;
 
 public class KarbiUpCommand implements Command {
 

@@ -1,8 +1,8 @@
 package com.pool.master.observer.client;
 
-import com.learn.master.observer.interfaces.Observer;
-import com.learn.master.observer.model.EmailTopic;
-import com.learn.master.observer.model.EmailTopicSubscriber;
+import com.pool.master.observer.interfaces.Observer;
+import com.pool.master.observer.model.EmailTopic;
+import com.pool.master.observer.model.EmailTopicSubscriber;
 
 public class ObserverClient {
     public static void main(String[] args) {

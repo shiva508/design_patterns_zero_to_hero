@@ -1,6 +1,6 @@
 package com.pool.master.factory.simple.servie;
 
-import com.learn.master.factory.simple.model.Hanburger;
+import com.pool.master.factory.simple.model.Hanburger;
 
 public abstract class BurgerService {
     public Hanburger ordeHanburger(String type) {

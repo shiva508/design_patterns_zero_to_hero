@@ -1,16 +1,16 @@
 package com.pool.master.command.client;
 
-import com.learn.master.command.model.GameBoy;
-import com.learn.master.command.model.KarbiCharacterReceiver;
-import com.learn.master.command.model.MarioCharacterReceiver;
-import com.learn.master.command.service.KarbiDownCommand;
-import com.learn.master.command.service.KarbiLeftCommand;
-import com.learn.master.command.service.KarbiRightCommand;
-import com.learn.master.command.service.KarbiUpCommand;
-import com.learn.master.command.service.MarioDownCommand;
-import com.learn.master.command.service.MarioLeftCommand;
-import com.learn.master.command.service.MarioRightCommand;
-import com.learn.master.command.service.MarioUpCommand;
+import com.pool.master.command.model.GameBoy;
+import com.pool.master.command.model.KarbiCharacterReceiver;
+import com.pool.master.command.model.MarioCharacterReceiver;
+import com.pool.master.command.service.KarbiDownCommand;
+import com.pool.master.command.service.KarbiLeftCommand;
+import com.pool.master.command.service.KarbiRightCommand;
+import com.pool.master.command.service.KarbiUpCommand;
+import com.pool.master.command.service.MarioDownCommand;
+import com.pool.master.command.service.MarioLeftCommand;
+import com.pool.master.command.service.MarioRightCommand;
+import com.pool.master.command.service.MarioUpCommand;
 
 public class CommandClient {
     public static void main(String[] args) {

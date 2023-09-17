@@ -1,9 +1,9 @@
 package com.pool.design.structural.composite;
 
-import com.learn.design.structural.composite.BaseComponent.Subject;
-import com.learn.design.structural.composite.Composite.HeadOfDeportment;
-import com.learn.design.structural.composite.LeafObjects.Programming;
-import com.learn.design.structural.composite.LeafObjects.Science;
+import com.pool.design.structural.composite.BaseComponent.Subject;
+import com.pool.design.structural.composite.Composite.HeadOfDeportment;
+import com.pool.design.structural.composite.LeafObjects.Programming;
+import com.pool.design.structural.composite.LeafObjects.Science;
 
 public class CompositClient {
 	public static void main(String[] args) {

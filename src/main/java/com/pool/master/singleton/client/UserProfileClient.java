@@ -1,6 +1,6 @@
 package com.pool.master.singleton.client;
 
-import com.learn.master.singleton.model.UserProfile;
+import com.pool.master.singleton.model.UserProfile;
 
 public class UserProfileClient {
     public static void main(String[] args) {

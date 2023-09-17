@@ -1,9 +1,9 @@
 package com.pool.master.factory.coffe.service;
 
-import com.learn.master.factory.coffe.model.CoffeMaker;
-import com.learn.master.factory.coffe.model.LightMasalaCoffeMaker;
-import com.learn.master.factory.coffe.model.MasalaCoffeMaker;
-import com.learn.master.factory.coffe.model.StrongMasalaCoffeMaker;
+import com.pool.master.factory.coffe.model.CoffeMaker;
+import com.pool.master.factory.coffe.model.LightMasalaCoffeMaker;
+import com.pool.master.factory.coffe.model.MasalaCoffeMaker;
+import com.pool.master.factory.coffe.model.StrongMasalaCoffeMaker;
 
 public class MasalaCoffeMakerProcessor extends CoffeMakerProcessor {
 

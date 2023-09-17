@@ -3,8 +3,8 @@ package com.pool.design.behavioral.mediator.concrete;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.learn.design.behavioral.mediator.StudentPoolChatRoom;
-import com.learn.design.behavioral.mediator.colleague.Student;
+import com.pool.design.behavioral.mediator.StudentPoolChatRoom;
+import com.pool.design.behavioral.mediator.colleague.Student;
 
 public class StudentPoolChatRoomImpl implements StudentPoolChatRoom {
 

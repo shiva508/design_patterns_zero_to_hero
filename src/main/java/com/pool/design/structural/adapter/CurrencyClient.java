@@ -1,6 +1,6 @@
 package com.pool.design.structural.adapter;
 
-import com.learn.design.structural.adapter.ClassAdapter.ClassCurrencyAdapter;
+import com.pool.design.structural.adapter.ClassAdapter.ClassCurrencyAdapter;
 
 public class CurrencyClient {
 	public static void main(String[] args) {

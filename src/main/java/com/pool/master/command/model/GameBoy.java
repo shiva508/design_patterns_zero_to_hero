@@ -1,6 +1,6 @@
 package com.pool.master.command.model;
 
-import com.learn.master.command.service.Command;
+import com.pool.master.command.service.Command;
 
 public class GameBoy {
     private Command upCommand;

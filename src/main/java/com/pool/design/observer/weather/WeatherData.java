@@ -3,8 +3,8 @@ package com.pool.design.observer.weather;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.learn.design.observer.newsletter.Observer;
-import com.learn.design.observer.newsletter.Subject;
+import com.pool.design.observer.newsletter.Observer;
+import com.pool.design.observer.newsletter.Subject;
 
 public class WeatherData implements Subject {
 	
