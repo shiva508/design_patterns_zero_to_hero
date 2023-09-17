@@ -1,6 +1,6 @@
 package com.pool.master.strategy.bankcard.model;
 
-import com.learn.master.strategy.bankcard.controller.Bankcard;
+import com.pool.master.strategy.bankcard.controller.Bankcard;
 
 public class SbiBankcard implements Bankcard {
 

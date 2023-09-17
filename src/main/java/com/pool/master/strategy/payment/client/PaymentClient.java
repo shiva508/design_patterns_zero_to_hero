@@ -1,9 +1,9 @@
 package com.pool.master.strategy.payment.client;
 
-import com.learn.master.strategy.payment.controller.CreditcardAlgoritham;
-import com.learn.master.strategy.payment.controller.PaypalAlgoritham;
-import com.learn.master.strategy.payment.controller.ShoppingCart;
-import com.learn.master.strategy.payment.model.Product;
+import com.pool.master.strategy.payment.controller.CreditcardAlgoritham;
+import com.pool.master.strategy.payment.controller.PaypalAlgoritham;
+import com.pool.master.strategy.payment.controller.ShoppingCart;
+import com.pool.master.strategy.payment.model.Product;
 
 public class PaymentClient {
     public static void main(String[] args) {

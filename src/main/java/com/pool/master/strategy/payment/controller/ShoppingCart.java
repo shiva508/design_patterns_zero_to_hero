@@ -3,7 +3,7 @@ package com.pool.master.strategy.payment.controller;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.learn.master.strategy.payment.model.Product;
+import com.pool.master.strategy.payment.model.Product;
 
 public class ShoppingCart {
 

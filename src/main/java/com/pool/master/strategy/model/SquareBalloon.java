@@ -1,6 +1,6 @@
 package com.pool.master.strategy.model;
 
-import com.learn.master.strategy.controller.ScoreAlgorithamBase;
+import com.pool.master.strategy.controller.ScoreAlgorithamBase;
 
 public class SquareBalloon implements ScoreAlgorithamBase {
 
